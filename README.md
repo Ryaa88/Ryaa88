@@ -1,9 +1,11 @@
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+
+<img width="500" height="281" alt="Sasuke GIF" src="https://github.com/user-attachments/assets/1048e756-95d7-4db5-8b99-f11eb9eeff18" />
 
 
 
 
-![Uploading Sasuke GIF.gif…]()
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryaa88&label=Profile%20views&color=0e75b6&style=flat" alt="ryaa88" /> </p>
 
