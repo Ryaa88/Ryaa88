@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryaa88&label=Profile%20views&color=0e75b6&style=flat" alt="Naoko" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Naoko&label=Profile%20views&color=0e75b6&style=flat" alt="Naoko" /> </p>
 
 - 🌱 I’m currently learning **biology**
 
